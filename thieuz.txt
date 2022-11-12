@@ -1,0 +1,3 @@
+vào git bash here
+
+git clone + link => kéo thư mục dự án trên github về
